@@ -1,0 +1,15 @@
+2026-10-27 08:00:12 [INFO] System initialized successfully on Node-01
+2026-10-27 08:02:45 [INFO] Sensor-01 connected to gateway (IP: 192.168.1.10)
+2026-10-27 08:05:11 [WARNING] High CPU usage detected: 85% on Server-Core
+2026-10-27 08:10:02 [ERROR] 404 Not Found: Failed to sync telemetry data for Sensor-05
+2026-10-27 08:12:30 [INFO] Sensor-02 health status: OK
+2026-10-27 08:15:44 [CRITICAL] Memory leak warning: Available RAM below 5% on Gateway-Node
+2026-10-27 08:20:00 [ERROR] TIMEOUT: Connection lost to Sensor-12 after 30000ms
+2026-10-27 08:22:15 [INFO] Scheduled backup completed successfully
+2026-10-27 08:25:39 [CRITICAL] Hardware failure: SSD write error on /dev/sdb1
+2026-10-27 08:30:10 [WARNING] Temperature threshold exceeded on Zone-B (42°C)
+2026-10-27 08:35:01 [ERROR] 404 Not Found: Firmware update payload missing on Server-Repo
+2026-10-27 08:40:22 [INFO] User 'admin' logged in from 10.0.0.15
+2026-10-27 08:45:50 [ERROR] TIMEOUT: Database query execution exceeded 15000ms
+2026-10-27 08:50:11 [CRITICAL] Power supply failure detected on Rack-02 Backup Unit
+2026-10-27 08:55:00 [INFO] Routine health check completed for all active IoT stations
